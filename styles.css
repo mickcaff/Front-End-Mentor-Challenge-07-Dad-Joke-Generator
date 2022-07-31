@@ -1,0 +1,54 @@
+:root {
+    --primary1: hsl(193, 38%, 86%);
+    --primary2: hsl(150, 100%, 66%);
+    --neutral1: hsl(217, 19%, 38%);
+    --neutral2: hsl(217, 19%, 24%);
+    --neutral3: hsl(218, 23%, 16%);
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Manrope, sans-serif;
+}
+body {
+    background-color: var(--neutral3);
+}
+h3 {
+    color: var(--primary2);
+    font-size: 0.8rem;
+    font-weight: 400;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+.main-card {
+    background-color: var(--neutral2);
+    border-radius: 0.8rem;
+    margin: 20% 5%;
+    padding: 3rem 2rem;
+    text-align: center;
+}
+.advice-main {
+    color: var(--primary1);
+    margin: 2rem 0;
+}
+.button {
+    background-color: var(--primary2);
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    width: 5rem;
+    height: 5rem;
+}
+
+
+
+
+.attribution {
+    color: var(--background-neutral2);
+    /* background-color: var(--background-primary2-50); */
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    padding: 1%;
+    text-align: center;
+}
