@@ -21,15 +21,19 @@ h3 {
     text-transform: uppercase;
 }
 .main-card {
+    position: relative;
     background-color: var(--neutral2);
     border-radius: 0.8rem;
     margin: 20% 5%;
     padding: 3rem 2rem;
     text-align: center;
 }
-.advice-main {
+.joke-main {
     color: var(--primary1);
     margin: 2rem 0;
+}
+.divider-img {
+    width: 95%;
 }
 .button {
     background-color: var(--primary2);
@@ -38,17 +42,31 @@ h3 {
     cursor: pointer;
     width: 5rem;
     height: 5rem;
+    display: inline-block;
+    position: absolute;
+    left: calc(50% - 2.5rem);
+    bottom: -2.5rem;
 }
-
-
-
-
+.button-img {
+    color: var(--neutral3);
+}
 .attribution {
-    color: var(--background-neutral2);
-    /* background-color: var(--background-primary2-50); */
+    color: var(--primary1);
+    background-color: var(--neutral1);
+    font-size: 0.8rem;
     position: fixed;
     bottom: 0;
     width: 100vw;
     padding: 1%;
     text-align: center;
+}
+.attribution a {
+    color: var(--primary2);
+}
+
+@media (min-width: 600px) {
+    .main-card {
+        max-width: 600px;
+        margin: 20% auto;
+    }
 }
