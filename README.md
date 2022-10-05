@@ -4,7 +4,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 #### Link
 
-- My Solution Live Site URL: [https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
+- My Solution Live Site URL: [https://magnificent-treacle-c3bdf9.netlify.app/](https://magnificent-treacle-c3bdf9.netlify.app/)
 
 ## Table of contents
 
