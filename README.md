@@ -2,14 +2,18 @@
 
 This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). I switched the advice API for a dad jokes API, just to make it a bit more fun. Link to the API is below in the Useful Resources section.
 
+#### Link
+
+- My Solution Live Site URL: [https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
+
 ## Table of contents
 
 - [Frontend Mentor - Joke generator app solution](#frontend-mentor---joke-generator-app-solution)
+      - [Link](#link)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
-    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
@@ -37,10 +41,6 @@ Mobile View
 
 <img src="./images/final-mobile.png" alt="Mobile view screenshot" width="250px">
 
-### Links
-
-- Solution URL: [https://magnificent-treacle-c3bdf9.netlify.app/](https://magnificent-treacle-c3bdf9.netlify.app/)
-- Live Site URL: [https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
 
 ## My process
 
